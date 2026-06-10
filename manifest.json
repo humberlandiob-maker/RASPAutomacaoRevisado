@@ -1,0 +1,10 @@
+{
+  "name": "Rasp Automação",
+  "short_name": "Rasp",
+  "description": "Soluções inteligentes em automação industrial, instalações elétricas e montagem de painéis.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#c1121f",
+  "icons": []
+}

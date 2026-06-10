@@ -1,0 +1,41 @@
+﻿# --- Arquivos do Sistema ---
+Thumbs.db
+.DS_Store
+Desktop.ini
+*.swp
+*.swo
+*~
+
+# --- Ambiente e Secrets ---
+.env
+.env.local
+.env.*.local
+
+# --- Logs ---
+*.log
+logs/
+**/logs/
+
+# --- Node / Dependências (caso evolua para um bundler no futuro) ---
+node_modules/
+dist/
+build/
+.cache/
+
+# --- IDE / Editor ---
+.vscode/settings.json
+.vscode/launch.json
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# --- Arquivos temporários / design ---
+imagem para base.png
+
+# --- Assets redundantes / não utilizados na raiz ---
+logotipo.png
+logotipo2.png
+
+# --- Desenvolvimento / Agentes ---
+.agents/
+.git/opencode
