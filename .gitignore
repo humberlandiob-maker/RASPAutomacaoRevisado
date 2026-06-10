@@ -1,4 +1,4 @@
-# --- Arquivos do Sistema ---
+﻿# --- Arquivos do Sistema ---
 Thumbs.db
 .DS_Store
 Desktop.ini
@@ -33,4 +33,9 @@ build/
 imagem para base.png
 
 # --- Assets redundantes / não utilizados na raiz ---
+logotipo.png
 logotipo2.png
+
+# --- Desenvolvimento / Agentes ---
+.agents/
+.git/opencode

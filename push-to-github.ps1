@@ -1,9 +1,9 @@
-# =============================================
+﻿# =============================================
 # Rasp Automação — Push to GitHub
 # Uso: .\push-to-github.ps1
 # =============================================
 
-$REPO_URL = "https://github.com/fabiotoniati/fono-2605.git"
+$REPO_URL = "https://github.com/humberlandiob-maker/RASPAutomacaoRevisado.git"
 $BRANCH  = "master"
 
 Write-Host "==> Configurando remote origin..." -ForegroundColor Cyan
