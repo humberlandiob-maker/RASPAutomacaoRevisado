@@ -23,11 +23,13 @@ build/
 .cache/
 
 # --- IDE / Editor ---
-.vscode/settings.json
-.vscode/launch.json
+.vscode/
 .idea/
 *.sublime-project
 *.sublime-workspace
+*.sublime-*
+.history/
+*.tsbuildinfo
 
 # --- Arquivos temporários / design ---
 imagem para base.png
